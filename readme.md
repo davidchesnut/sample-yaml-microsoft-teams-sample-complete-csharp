@@ -1,3 +1,6 @@
+# This repo tests uploading sample YAML
+This is a test repo. Goal is to test that uploading YAML sample metadata is working correctly.
+
 ---
 topic: sample
 name: Outlook Payments Node.js code sample
@@ -10,5 +13,5 @@ extensions:
   - Outlook
   - Office 365
 ---
-# This repo tests uploading sample YAML
+## This repo tests uploading sample YAML
 This is a test repo. Goal is to test that uploading YAML sample metadata is working correctly.
