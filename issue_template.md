@@ -1,16 +1,18 @@
-Thank you for bringing an issue to our attention. Please select which kind of documentation you found.
-- [ ] The article has incorect information.
-- [ ] The article has a typo, grammar, or other minor mistake.
-- [ ] The article is confusing or needs more explanation.
-- [ ] Request for new documentation.
+> Thank you for reporting an issue or suggesting an enhancement. We appreciate your feedback. To help us understand your needs, please complete this template to ensure we have the necessary details to help you.
+
+#### Doc issue category
+- [ ] **Typo**, grammar, or other minor mistake.
+- [ ] **Incorrect information** in the article.
+- [ ] **Confusing information** in the article or needs more explanation.
+- [ ] **New article** idea or request.
 
 **Have a product or other non-documentation issue?** See bottom of this template for more information.
 
 ## Article URL
-*Please provide the URL link to the article where the issue exists.*
+> *Please provide the URL link to the article where the issue exists.*
 
 ## Description
-*Please provide more details about the issue so we can help you.*
+> *Please provide more details about the issue so we can help you.*
 
 ## Where to post product or API questions or issues
 - To ask a question about using the Office.js API, post your question to Stack Overflow and tag it with the "office-js" tag (http://stackoverflow.com/questions/tagged/office-js).
